@@ -1,0 +1,19 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+ScriptError: could not find label 'ch0_main'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "C:/windows/system32/script.rpyc", line 31, in script call
+  File "C:\Users\TJBif\Downloads\renpy-6.99.12.4-sdk\renpy\ast.py", line 1322, in execute
+    rv = renpy.game.context().call(label, return_site=self.next.name)
+  File "C:/windows/system32/script.rpyc", line 31, in script call
+  File "C:\Users\TJBif\Downloads\renpy-6.99.12.4-sdk\renpy\script.py", line 858, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'ch0_main'.
+
+Windows-8-6.2.9200
+Ren'Py 6.99.12.4.2187
+The Study of a Troubled Yandere 1.1.2

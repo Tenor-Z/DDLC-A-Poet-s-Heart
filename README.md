@@ -1,5 +1,5 @@
-# DDLC-A-Poet-s-Heart
-A mod for Doki Doki Literature Club developed in RenPy
+# This is not maintained regularly
 
-# Setting
-This is still a work in progress. More will be included as I finish writing it all.
+See [version 2](https://github.com/GanstaKingofSA/DDLCModTemplate2.0) for the latest features and renpy 7+/android support.
+
+See [here](https://github.com/Monika-After-Story/DDLCModTemplate/blob/master/README_OLD.md) for the old README (which includes setup instructions for this version of the mod template)

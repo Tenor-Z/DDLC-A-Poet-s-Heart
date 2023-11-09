@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script-ch0.rpy", line 69: expected statement.
+    dissolve_scene_full
+                       ^
+
+Ren'Py Version: Ren'Py 6.99.12.4.2187
